@@ -1,12 +1,120 @@
-# Hi, I'm Andres Hernandez 👋
+# Hi, I'm Andrés Hernánz 👋
 
-Full Stack Web Engineer focused on high-performance backend systems, modular architectures, and clean developer workflows. 
+> **Building software that solves real problems.**
 
-### 🛠️ Tech Stack & Ecosystem
-* **Backend & Frameworks:** Laravel, Livewire, Odoo ERP, Alpine.js, Tailwind CSS (TALL Stack).
-* **Environment & Tools:** Powered by Ubuntu LTS, custom terminal setups, Git Flow for team coordination.
-* **AI & Automation:** Integrating local LLMs into web applications using Laravel AI SDK and Ollama.
+Backend Software Engineer focused on scalable web applications, software architecture and developer workflows.
 
-### 🚀 Current Focus
-* Developing scalable multi-tenant SaaS products.
-* Automating internal management platforms with state machines and dynamic AI classification.
+I enjoy building products, documenting the engineering process and sharing what I learn while developing software.
+
+---
+
+## 🚀 About Me
+
+- 💼 Backend Software Engineer
+- 🐘 Specialized in Laravel & PHP
+- 🐧 Daily Ubuntu user
+- ⚙️ Passionate about Software Architecture
+- 🤖 Exploring AI-powered applications
+- 📖 Building in Public
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- Laravel
+- PHP
+- Livewire
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Frontend
+
+- Alpine.js
+- Tailwind CSS
+- Bootstrap
+
+### Development
+
+- Git
+- Docker
+- VS Code
+- Linux / Ubuntu
+
+### AI
+
+- Ollama
+- Groq API
+- Laravel AI
+
+---
+
+# 🚧 Currently Building
+
+## 🏛 Agora MX
+
+Multi-tenant SaaS platform for municipal public service management powered by AI.
+
+---
+
+## 📦 Alabaster
+
+Minimal static site generator powered by Markdown, Twig and PHP.
+
+---
+
+## 📊 Local Stock QR
+
+Inventory and warehouse management platform using QR codes.
+
+---
+
+## 🌐 Personal Website
+
+A place where I'll document projects, articles and software engineering notes.
+
+---
+
+# 🌱 Open Source
+
+Open Source is an important part of my long-term journey.
+
+I'm interested in building tools that improve developer workflows and contributing back to the PHP ecosystem.
+
+---
+
+# 🎯 Current Goals
+
+- Launch Agora MX
+- Release Alabaster
+- Publish technical articles
+- Grow a software engineering community
+- Contribute more to Open Source
+
+---
+
+# 📈 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+<!-- Top Languages -->
+
+<!-- Contribution Graph -->
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn
+- 🎥 YouTube
+- 📱 TikTok
+- 🌐 Portfolio *(coming soon)*
+
+---
+
+> *Build. Learn. Share.*
