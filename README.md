@@ -1,120 +1,68 @@
-# Hi, I'm Andrés Hernánz 👋
+# Hi, I'm Andrés Hernández Cruz 👋
 
-> **Building software that solves real problems.**
+> **Backend Software Engineer | Laravel · PHP · Scalable Web Systems · Software Architecture**
 
-Backend Software Engineer focused on scalable web applications, software architecture and developer workflows.
-
-I enjoy building products, documenting the engineering process and sharing what I learn while developing software.
+Backend Software Engineer with 4+ years of experience specializing in designing, building, and scaling critical web applications and SaaS platforms. Focused on enterprise & public sector process digitization, legacy refactoring, query optimization, and maintainable architectures.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Backend Software Engineer
-- 🐘 Specialized in Laravel & PHP
-- 🐧 Daily Ubuntu user
-- ⚙️ Passionate about Software Architecture
-- 🤖 Exploring AI-powered applications
-- 📖 Building in Public
+- 💼 **Backend Software Engineer** driving digital transformation and system stability.
+- 🐘 **Core Stack:** PHP, Laravel, Livewire, Vue.js, MySQL, PostgreSQL, Odoo 19.
+- 🐧 **Infrastructure:** Linux enthusiast (Debian / Ubuntu), Docker, LAMP, Certbot/SSL.
+- 🤖 **AI & Workflows:** Integrating Local LLMs (Ollama), Google Gemini AI, and PhpStorm / VS Code workflows.
+- 📖 **Building in Public:** Documenting engineering architecture, Linux developer environments, and backend systems.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+### Languages & Frameworks
+`PHP` · `Laravel` · `Livewire` · `Vue.js` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS`
 
-- Laravel
-- PHP
-- Livewire
+### Databases & ERP
+`MySQL` · `PostgreSQL` · `Odoo 19` · `Relational Data Modeling` · `SQL Query Optimization`
 
-### Databases
+### Architecture & Infrastructure
+`Software Architecture` · `Linux (Debian/Ubuntu)` · `LAMP Servers` · `Git` · `Docker` · `Certbot / SSL`
 
-- MySQL
-- PostgreSQL
-- SQLite
-
-### Frontend
-
-- Alpine.js
-- Tailwind CSS
-- Bootstrap
-
-### Development
-
-- Git
-- Docker
-- VS Code
-- Linux / Ubuntu
-
-### AI
-
-- Ollama
-- Groq API
-- Laravel AI
+### Tooling & AI Workflows
+`PhpStorm` · `VS Code` · `HeidiSQL` · `Local AI (Ollama)` · `Google Gemini AI` · `REST APIs` · `SaaS Systems`
 
 ---
 
-# 🚧 Currently Building
+## 🚧 Selected Projects
 
-## 🏛 Agora MX
-
+### 🏛 Agora MX
 Multi-tenant SaaS platform for municipal public service management powered by AI.
 
----
+### 📦 Alabaster
+Minimal static site generator powered by Markdown, Twig, and PHP.
 
-## 📦 Alabaster
+### 📊 Local Stock QR
+Inventory and warehouse management platform using QR code integration.
 
-Minimal static site generator powered by Markdown, Twig and PHP.
-
----
-
-## 📊 Local Stock QR
-
-Inventory and warehouse management platform using QR codes.
+### 🌐 Personal Developer Hub
+Personal space documenting backend architecture, articles, and software engineering workflows.
 
 ---
 
-## 🌐 Personal Website
+## 🎯 Current Focus & Goals
 
-A place where I'll document projects, articles and software engineering notes.
-
----
-
-# 🌱 Open Source
-
-Open Source is an important part of my long-term journey.
-
-I'm interested in building tools that improve developer workflows and contributing back to the PHP ecosystem.
+- Building scalable SaaS solutions and institutional web platforms.
+- Optimizing database performance and reducing technical debt in production systems.
+- Integrating local LLMs into modern backend developer pipelines.
+- Contributing back to the PHP and open-source ecosystem.
 
 ---
 
-# 🎯 Current Goals
+## 🤝 Let's Connect
 
-- Launch Agora MX
-- Release Alabaster
-- Publish technical articles
-- Grow a software engineering community
-- Contribute more to Open Source
+- 💼 **LinkedIn:** [linkedin.com/in/andreshernanz01](https://linkedin.com/in/andreshernanz01)
+- 📧 **Email:** andrs7645@outlook.com
+- 📍 **Location:** Córdoba, Veracruz, Mexico
 
 ---
 
-# 📈 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-
-<!-- Top Languages -->
-
-<!-- Contribution Graph -->
-
----
-
-# 🤝 Let's Connect
-
-- 💼 LinkedIn
-- 🎥 YouTube
-- 📱 TikTok
-- 🌐 Portfolio *(coming soon)*
-
----
-
-> *Build. Learn. Share.*
+> *Build. Refactor. Scale. Share.*
